@@ -15,7 +15,28 @@
       "name": "C.O.D.E Token",
       "decimals": 0,
       "logoURI": "https://ipfs.io/ipfs/bafkreigl5qoedjuzlnrmapmzma3qz4fpq5xlekyciqmx6wlpdudrdsej44",
-      "tags": ["community", "devnet"]
+      "tags": [
+        "community",
+        "devnet"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "4WUsKQBD1tqy6SoDyWKKcykoTeztrGaYfcTQUEfTSYaE",
+      "symbol": "CODE",
+      "name": "C.O.D.E Token",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/bafkreicu66enbxpbduc3hj275l2wmwamikfdlad5yni5uaqconl2hrtuum",
+      "tags": [
+        "utility-token",
+        "community",
+        "opportunity"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/CODE4ALLOFUS"
+      }
     }
   ]
 }
+
+
