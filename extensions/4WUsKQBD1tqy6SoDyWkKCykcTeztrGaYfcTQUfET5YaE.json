@@ -1,0 +1,18 @@
+{
+  "chainId": 101,
+  "address": "4WUsKQBD1tqy6SoDyWkKCykcTeztrGaYfcTQUfET5YaE",
+  "symbol": "CODE",
+  "name": "C.O.D.E Token",
+  "decimals": 0,
+  "logoURI": "https://ipfs.io/ipfs/bafkreicu66enbxpbduc3hj275l2wmxamikfdlad5yni5uaqconl2hrtuum",
+  "extensions": {
+    "website": "https://codecryptocurrency.com",
+    "twitter": "https://twitter.com/CODE4ALLOFUS",
+    "whitepaper": "https://ipfs.io/ipfs/bafkreidvspfy54f275wdkrLyutzgbxlgibzcn5pxu6ghslxnnrszfdsli",
+    "serumV3Usdc": "",
+    "serumV3Usdt": "",
+    "coingeckoId": "",
+    "description": "C.O.D.E stands for Crypto Opportunity. Decentralized Economy. CODE Token fuels a community-driven ecosystem that rewards holders, strengthens freedom, and reshapes the future of finance through decentralized utility and tokenized trust.",
+    "mintAuthority": "Fb4Z731RaDepZ9sKQ33XsVZs1mH5YAEoGtqUnzDEsAiQ"
+  }
+}
