@@ -1,0 +1,15 @@
+{
+  "name": "C.O.D.E Token",
+  "symbol": "CODE",
+  "description": "C.O.D.E = Crypto. Opportunity. Decentralized. Economy. A movement for the people built on Solana.",
+  "image": "https://ipfs.io/ipfs/bafkreicu66enbxpbduc3hj275l2wmwamikfdlad5yni5uaqconl2hrtuum",
+  "decimals": 0,
+  "address": "4WUsKQBD1tqy6SoDyWKKcykoTeztrGaYfcTQUEfTSYaE",
+  "chainId": 101,
+  "tags": ["utility-token", "community", "opportunity"],
+  "extensions": {
+    "website": "https://codecryptocurrency.com",
+    "twitter": "https://twitter.com/CODE4ALLOFUS",
+    "whitepaper": "https://ipfs.io/ipfs/bafkreidfys4f4f257wdkrLyutzgxbLgixm3ip6f2sb5ntd7tyqzlbkb6fa"
+  }
+}
